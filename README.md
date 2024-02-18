@@ -1,1 +1,2 @@
-# Clothes-Shop
+# ClothesShop
+Clothing store program (ClothesShop) using the OOP principle that there should be What are the classes, object, attribute, methods? In the shirt shop Size XL L M S 10 pieces per type Price 150 baht each and Size XL L M T-shirts 20 baht each Price 100 baht each By buyer1 Buy 10 XL shirts, 5 L shirts Buyers2 Buy 1 XL shirt, 5 S, 5 L T-shirts. Displays information that each user purchases and the total price, including Notify buyers when the product is out of stock. and shows the total sales of the company with the amount of money.
